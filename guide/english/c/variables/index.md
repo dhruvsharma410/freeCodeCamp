@@ -94,7 +94,7 @@ We get `15.300000`. So, say we just want two places after the decimal to give us
 * The only characters you can use in names are alphabetic characters, numeric digits, and
   the underscore (_) character.
 * The first character in a name cannot be a numeric digit.
-* Uppercase characters are considered distinct from lowercase characters.
+* Uppercase characters are considered distinct from lowercase characters because C is a case sensitive language.
 * You can’t use a C keyword for a name.
 
 # Before you go on...
