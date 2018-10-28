@@ -42,4 +42,8 @@ int main () {
 > Item on index 2 is 3
 > Item on index 3 is 4
 ```
-
+ 
+## Explanation
+The variable i starts for 0 and goes upto 4, which is less that 5.
+After the execution of last definition, i gets incremented to 5.
+Now 5 is not less that 5, the loop will get terminated.
