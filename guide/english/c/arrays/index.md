@@ -37,6 +37,7 @@ int main(void) {
     return 0;
 }
 ```
+One thing of most importance is that name of the array stores the address of first element of array. You will learn more about this when we study pointers.
 And now let's break the syntax down a bit: 
 ```C
 int arr[4] = {1, 2, 3, 88};
